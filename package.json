@@ -1,5 +1,6 @@
 {
-  "name": "react-todo-app",
+  "name": "react-ijaa-app",
+  "homepage": "http://gispatial.github.io/ijaa_app",
   "version": "0.1.0",
   "private": true,
   "devDependencies": {
